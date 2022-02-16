@@ -7,7 +7,7 @@
 I'm currently focused learning Go Lang and how microsservices works with EDA (Event Driven Architecture).
 
 ##### My formations:
-- <div>Currently studying System Analysis and Development at <a href="https://www.cotemig.com.br/">Cotemig</a> and Digital Games at <a href="https://www.fiap.com.br/">FIAP</a>.</div>
+- <div>Currently studying System Analysis and Development at <a href="https://www.fiap.com.br/">FIAP</a> and Digital Games at <a href="https://www.fiap.com.br/">FIAP</a> too.</div>
 - <div>Information Technology Technician by <a href="https://www.cotemig.com.br/">Cotemig</a>.</div>
 
 ##### <div align=""> You can find me in: </div>
