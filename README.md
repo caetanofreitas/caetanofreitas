@@ -1,10 +1,10 @@
 <img alt="gif" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ceab6b05-066e-4f6b-82ab-d8d718e2cbb5/da69dzf-11f146e8-481e-4ace-bfea-2a8fa094a416.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NlYWI2YjA1LTA2NmUtNGY2Yi04MmFiLWQ4ZDcxOGUyY2JiNVwvZGE2OWR6Zi0xMWYxNDZlOC00ODFlLTRhY2UtYmZlYS0yYThmYTA5NGE0MTYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0AV7OXHT-kFbJAHvGSm9oKF31qvYzymwODMDUu6RVZc" width="100%"/>
 
-# <div align="center">Full Stack developer at <a href="https://ioasys.com.br/" target="blank">ioasys</a></div>
+# <div align="center">Full Stack developer at <a href="https://www.bancointer.com.br" target="blank">Banco Inter</a></div>
 
-<p>Hello, I'm Caetano Freitas! 2 years of experience as web developer using Javascrip ecossystem. I'm always open to work and study with new techs. I love Video Games 🎮, Music 🎵 and Sports ⚽️</p>
+<p>Hello, I'm Caetano Freitas! +2 years of experience as web developer using Javascrip ecossystem and Go lang. I'm always open to work and study with new techs. I love Video Games 🎮, Music 🎵 and Sports ⚽️</p>
 
-I'm currently focused learning Go Lang and how microsservices works with EDA (Event Driven Architecture).
+I'm currently focused learning Go Lang and microsservices ecosystem.
 
 ##### My formations:
 - <div>Currently studying System Analysis and Development at <a href="https://www.fiap.com.br/">FIAP</a> and Digital Games at <a href="https://www.fiap.com.br/">FIAP</a> too.</div>
