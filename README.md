@@ -2,7 +2,7 @@
 
 # <div align="center">Full Stack developer at <a href="https://www.bancointer.com.br" target="blank">Banco Inter</a></div>
 
-<p>Hello, I'm Caetano Freitas! +2 years of experience as web developer using Javascrip ecossystem and Go lang. I'm always open to work and study with new techs. I love Video Games 🎮, Music 🎵 and Sports ⚽️</p>
+<p>Hello, I'm Caetano Freitas! +3 years of experience as web developer using JS/TS ecosystem and Go Lang. I'm always open to work and study with new techs. I love Video Games 🎮, Music 🎵 and Sports ⚽️</p>
 
 I'm currently focused learning Go Lang and microsservices ecosystem.
 
@@ -10,7 +10,7 @@ I'm currently focused learning Go Lang and microsservices ecosystem.
 - <div>Currently studying System Analysis and Development at <a href="https://www.fiap.com.br/">FIAP</a> and Digital Games at <a href="https://www.fiap.com.br/">FIAP</a> too.</div>
 - <div>Information Technology Technician by <a href="https://www.cotemig.com.br/">Cotemig</a>.</div>
 
-##### <div align=""> You can find me in: </div>
+##### <div align=""> You can find me at: </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/caetanofreitas/" target="blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
