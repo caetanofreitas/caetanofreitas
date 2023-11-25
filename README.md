@@ -7,7 +7,8 @@
 I'm currently focused learning Go Lang and microsservices ecosystem.
 
 ##### My formations:
-- <div>Currently studying System Analysis and Development at <a href="https://www.fiap.com.br/">FIAP</a> and Digital Games at <a href="https://www.fiap.com.br/">FIAP</a> too.</div>
+- <div>Currently studying System Analysis and Development at <a href="https://www.fiap.com.br/online/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/">FIAP</a>.</div>
+- <div>Game Development by <a href="https://www.fiap.com.br/online/graduacao/tecnologo/game-development/">FIAP</a></div>
 - <div>Information Technology Technician by <a href="https://www.cotemig.com.br/">Cotemig</a>.</div>
 
 ##### <div align=""> You can find me at: </div>
